@@ -14,8 +14,6 @@ from maxent.model.AICc import AICc
 #
 # Cd to the directory containing the repositories
 # export PYTHONPATH=`pwd`:`pwd`/core:`pwd`/maxent
-# view/AICc_CLV.py -d /att/nobackup/rlgill/testMaxEnt
-#
 # maxent/view/AICc_CLV.py -a /att/nobackup/jschnase/MMX/js-runs/output-maxent-baseline-raw/CassinsSparrow_0.asc -f /att/nobackup/jschnase/MMX/js-runs/input/gbif/CSp_2016_016km_thin.csv -i /att/nobackup/jschnase/MMX/js-runs/input/bioclim/ -l /att/nobackup/jschnase/MMX/js-runs/output-maxent-baseline-raw/CassinsSparrow_0.lambdas
 # -----------------------------------------------------------------------------
 def main():
